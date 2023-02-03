@@ -1,0 +1,291 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:45:11] filterscripts = ""  (string)
+[21:45:11] 
+[21:45:11] Server Plugins
+[21:45:11] --------------
+[21:45:11]  Loading plugin: gvar
+[21:45:11] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[21:45:11]   Loaded.
+[21:45:11]  Loading plugin: mysql
+[21:45:11]  >> plugin.mysql: running on 1 thread.
+[21:45:11]  >> plugin.mysql: R31 successfully loaded.
+[21:45:11]   Loaded.
+[21:45:11]  Loading plugin: sscanf
+[21:45:12] 
+
+[21:45:12]  ===============================
+
+[21:45:12]       sscanf plugin loaded.     
+
+[21:45:12]    (c) 2009 Alex "Y_Less" Cole
+
+[21:45:12]    0.3d-R2 500 Players "dnee"
+
+[21:45:12]  ===============================
+
+[21:45:12]   Loaded.
+[21:45:12]  Loading plugin: streamer
+[21:45:13] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[21:45:13]   Loaded.
+[21:45:13]  Loaded 4 plugins.
+
+[21:45:13] 
+[21:45:13] Filterscripts
+[21:45:13] ---------------
+[21:45:13]   Loaded 0 filterscripts.
+
+[21:45:13]  
+[21:45:13]  
+[21:45:13]  
+[21:45:13]  ======================================= 
+[21:45:13]  |                                     | 
+[21:45:13]  |        YSI version 3.09.0684        | 
+[21:45:13]  |        By Alex "Y_Less" Cole        | 
+[21:45:13]  |                                     | 
+[21:45:13]  ======================================= 
+[21:45:13]  
+[21:45:13]  
+[21:45:13]  
+[21:45:13] Серверная погода Солнечно - 0
+[21:45:13] [MYSQL] подключение успешно (1)
+[21:45:14] LoadBankFrac
+[21:45:14] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 1ms
+[21:45:14] # Copyright © 2012-2016 By Ilya. #
+[21:45:14] Number of vehicle models: 22
+[21:45:15] LoadProperty[ Загрузка ... ] Потрачено: 1518ms | Загружено: 722 домов
+[21:45:15] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[21:45:15] LoadBizz[ Загрузка ... ] Потрачено: 27ms | Загружено: 66 бизнесов
+[21:45:15] LoadPodezd[ Загрузка ... ] Потрачено: 7ms | Загружено: 63 подъездов
+[21:45:15] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 18ms
+[21:45:15] LoadGatesSystem[ Загрузка ... ] Потрачено: 3ms
+[21:45:15] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[21:45:15] LoadGarages[ Загрузка ... ] Потрачено: 46ms | Загружено: 157 гаражей
+[21:45:15] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[21:45:15] maxaccs = 961
+[21:45:15] LoadStuffMySQL[ Загрузка ... ] Потрачено: 1ms
+[21:45:15] Система мебели: Загружено 2377 мебели!
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:47:43] filterscripts = ""  (string)
+[18:47:43] 
+[18:47:43] Server Plugins
+[18:47:43] --------------
+[18:47:43]  Loading plugin: gvar
+[18:47:43] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:47:43]   Loaded.
+[18:47:43]  Loading plugin: mysql
+[18:47:43]  >> plugin.mysql: running on 6 threads.
+[18:47:43]  >> plugin.mysql: R31 successfully loaded.
+[18:47:43]   Loaded.
+[18:47:43]  Loading plugin: sscanf
+[18:47:43] 
+
+[18:47:43]  ===============================
+
+[18:47:43]       sscanf plugin loaded.     
+
+[18:47:43]    (c) 2009 Alex "Y_Less" Cole
+
+[18:47:43]    0.3d-R2 500 Players "dnee"
+
+[18:47:43]  ===============================
+
+[18:47:43]   Loaded.
+[18:47:43]  Loading plugin: streamer
+[18:47:43] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[18:47:43]   Loaded.
+[18:47:43]  Loaded 4 plugins.
+
+[18:47:43] 
+[18:47:43] Filterscripts
+[18:47:43] ---------------
+[18:47:43]   Loaded 0 filterscripts.
+
+[18:47:43]  
+[18:47:43]  
+[18:47:43]  
+[18:47:43]  ======================================= 
+[18:47:43]  |                                     | 
+[18:47:43]  |        YSI version 3.09.0684        | 
+[18:47:43]  |        By Alex "Y_Less" Cole        | 
+[18:47:43]  |                                     | 
+[18:47:43]  ======================================= 
+[18:47:43]  
+[18:47:43]  
+[18:47:43]  
+[18:47:43] Серверная погода Солнечно - 0
+[18:47:45] [MYSQL] неудалось соединится с базой данных (1)
+[18:47:45] # Copyright © 2012-2016 By Ilya. #
+[18:47:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:48:18] filterscripts = ""  (string)
+[18:48:18] 
+[18:48:18] Server Plugins
+[18:48:18] --------------
+[18:48:18]  Loading plugin: gvar
+[18:48:18] 
+
+*** GVar Plugin v1.3 by Incognito loaded ***
+
+[18:48:18]   Loaded.
+[18:48:18]  Loading plugin: mysql
+[18:48:18]  >> plugin.mysql: running on 6 threads.
+[18:48:18]  >> plugin.mysql: R31 successfully loaded.
+[18:48:18]   Loaded.
+[18:48:18]  Loading plugin: sscanf
+[18:48:18] 
+
+[18:48:18]  ===============================
+
+[18:48:18]       sscanf plugin loaded.     
+
+[18:48:18]    (c) 2009 Alex "Y_Less" Cole
+
+[18:48:18]    0.3d-R2 500 Players "dnee"
+
+[18:48:18]  ===============================
+
+[18:48:18]   Loaded.
+[18:48:18]  Loading plugin: streamer
+[18:48:18] 
+
+*** Streamer Plugin v2.7.4 by Incognito loaded ***
+
+[18:48:18]   Loaded.
+[18:48:18]  Loaded 4 plugins.
+
+[18:48:18] 
+[18:48:18] Filterscripts
+[18:48:18] ---------------
+[18:48:18]   Loaded 0 filterscripts.
+
+[18:48:18]  
+[18:48:18]  
+[18:48:18]  
+[18:48:18]  ======================================= 
+[18:48:18]  |                                     | 
+[18:48:18]  |        YSI version 3.09.0684        | 
+[18:48:18]  |        By Alex "Y_Less" Cole        | 
+[18:48:18]  |                                     | 
+[18:48:18]  ======================================= 
+[18:48:18]  
+[18:48:18]  
+[18:48:18]  
+[18:48:18] Серверная погода Солнечно - 0
+[18:48:20] [MYSQL] подключение успешно (1)
+[18:48:20] LoadBankFrac
+[18:48:20] LoadAutoSalonDialog[ Загрузка ... ] Потрачено: 4ms
+[18:48:20] # Copyright © 2012-2016 By Ilya. #
+[18:48:20] Number of vehicle models: 22
+[18:48:20] LoadBizz[ Загрузка ... ] Потрачено: 10ms | Загружено: 66 бизнесов
+[18:48:20] LoadPodezd[ Загрузка ... ] Потрачено: 2ms | Загружено: 63 подъездов
+[18:48:20] LoadMobileStation[ Загрузка ... ] Потрачено: 0ms
+[18:48:20] LoadProperty[ Загрузка ... ] Потрачено: 112ms | Загружено: 722 домов
+[18:48:20] LoadGarages[ Загрузка ... ] Потрачено: 25ms | Загружено: 157 гаражей
+[18:48:20] LoadGraffitiSystem[ Загрузка ... ] Потрачено: 11ms
+[18:48:20] maxaccs = 961
+[18:48:20] LoadStuffMySQL[ Загрузка ... ] Потрачено: 0ms
+[18:48:20] LoadParking[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 парковок
+[18:48:20] LoadGatesSystem[ Загрузка ... ] Потрачено: 1ms
+[18:48:20] Система мебели: Загружено 2377 мебели!
+[18:48:20] LoadSafes[ Загрузка ... ] Потрачено: 0ms
+[18:48:20] LoadFracInventory[ Загрузка ... ] Потрачено: 1ms
+[18:48:20] LoadZas[ Загрузка ... ] Потрачено: 1ms | Загружено: 5 АЗС
+[18:48:20] LoadRoomMotelInventory[ Загрузка ... ] Потрачено: 1ms
+[18:48:20] Система объектов: Загружено 46 объектов!
+[18:48:57] SaveAutoFunc. Потрачено: 36804ms
+[18:48:57] LoadAutoFunc[ Загрузка ... ] Потрачено: 36937ms | Загружено: 207 транспорта
+[18:48:57] LoadActorList[ Загрузка ... ] Потрачено: 0ms | Загружено: 0 актеров
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('270'), callback: , connectionhandle: 1, error:Duplicate entry '270' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('288'), callback: , connectionhandle: 1, error:Duplicate entry '288' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('304'), callback: , connectionhandle: 1, error:Duplicate entry '304' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('308'), callback: , connectionhandle: 1, error:Duplicate entry '308' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('309'), callback: , connectionhandle: 1, error:Duplicate entry '309' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('313'), callback: , connectionhandle: 1, error:Duplicate entry '313' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('333'), callback: , connectionhandle: 1, error:Duplicate entry '333' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('334'), callback: , connectionhandle: 1, error:Duplicate entry '334' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('366'), callback: , connectionhandle: 1, error:Duplicate entry '366' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('378'), callback: , connectionhandle: 1, error:Duplicate entry '378' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('379'), callback: , connectionhandle: 1, error:Duplicate entry '379' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('385'), callback: , connectionhandle: 1, error:Duplicate entry '385' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('386'), callback: , connectionhandle: 1, error:Duplicate entry '386' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('395'), callback: , connectionhandle: 1, error:Duplicate entry '395' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('400'), callback: , connectionhandle: 1, error:Duplicate entry '400' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('401'), callback: , connectionhandle: 1, error:Duplicate entry '401' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('402'), callback: , connectionhandle: 1, error:Duplicate entry '402' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('406'), callback: , connectionhandle: 1, error:Duplicate entry '406' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('409'), callback: , connectionhandle: 1, error:Duplicate entry '409' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('410'), callback: , connectionhandle: 1, error:Duplicate entry '410' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('407'), callback: , connectionhandle: 1, error:Duplicate entry '407' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('415'), callback: , connectionhandle: 1, error:Duplicate entry '415' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('423'), callback: , connectionhandle: 1, error:Duplicate entry '423' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('426'), callback: , connectionhandle: 1, error:Duplicate entry '426' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('427'), callback: , connectionhandle: 1, error:Duplicate entry '427' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('437'), callback: , connectionhandle: 1, error:Duplicate entry '437' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('444'), callback: , connectionhandle: 1, error:Duplicate entry '444' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('463'), callback: , connectionhandle: 1, error:Duplicate entry '463' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('465'), callback: , connectionhandle: 1, error:Duplicate entry '465' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('469'), callback: , connectionhandle: 1, error:Duplicate entry '469' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('489'), callback: , connectionhandle: 1, error:Duplicate entry '489' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('490'), callback: , connectionhandle: 1, error:Duplicate entry '490' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('491'), callback: , connectionhandle: 1, error:Duplicate entry '491' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('518'), callback: , connectionhandle: 1, error:Duplicate entry '518' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('521'), callback: , connectionhandle: 1, error:Duplicate entry '521' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('522'), callback: , connectionhandle: 1, error:Duplicate entry '522' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('529'), callback: , connectionhandle: 1, error:Duplicate entry '529' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('532'), callback: , connectionhandle: 1, error:Duplicate entry '532' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('530'), callback: , connectionhandle: 1, error:Duplicate entry '530' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('531'), callback: , connectionhandle: 1, error:Duplicate entry '531' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('534'), callback: , connectionhandle: 1, error:Duplicate entry '534' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('533'), callback: , connectionhandle: 1, error:Duplicate entry '533' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('538'), callback: , connectionhandle: 1, error:Duplicate entry '538' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('537'), callback: , connectionhandle: 1, error:Duplicate entry '537' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('540'), callback: , connectionhandle: 1, error:Duplicate entry '540' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('546'), callback: , connectionhandle: 1, error:Duplicate entry '546' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('555'), callback: , connectionhandle: 1, error:Duplicate entry '555' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('558'), callback: , connectionhandle: 1, error:Duplicate entry '558' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('575'), callback: , connectionhandle: 1, error:Duplicate entry '575' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('581'), callback: , connectionhandle: 1, error:Duplicate entry '581' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('583'), callback: , connectionhandle: 1, error:Duplicate entry '583' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('584'), callback: , connectionhandle: 1, error:Duplicate entry '584' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('588'), callback: , connectionhandle: 1, error:Duplicate entry '588' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('589'), callback: , connectionhandle: 1, error:Duplicate entry '589' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('592'), callback: , connectionhandle: 1, error:Duplicate entry '592' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('596'), callback: , connectionhandle: 1, error:Duplicate entry '596' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('594'), callback: , connectionhandle: 1, error:Duplicate entry '594' for key 'PRIMARY'
+[18:48:57] Query: INSERT INTO `cars` (`ID`) VALUES ('595'), callback: , connectionhandle: 1, error:Duplicate entry '595' for key 'PRIMARY'
